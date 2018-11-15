@@ -12,6 +12,7 @@ class Calculator
     public:
 <<<<<<< HEAD
         int Add (int, int);
+<<<<<<< HEAD
         int Sub (int, int);
 >>>>>>> 976f691... add a subtraction operation
 =======
@@ -23,6 +24,9 @@ class Calculator
 		int Add (double, double);
 		int Sub (double, double);
 >>>>>>> 7080a70... my commit instead of formatting
+=======
+        int Mul (double, double);
+>>>>>>> e0ea21b... add a multiplication operation
 };
 
 #endif//CALCULATOR_H
