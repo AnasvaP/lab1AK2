@@ -4,6 +4,7 @@
 class Calculator
 {
 <<<<<<< HEAD
+<<<<<<< HEAD
 	public:
 		int Add (double, double);
 		int Sub (double, double);
@@ -17,6 +18,11 @@ class Calculator
         int Add (double, double);
         int Sub (double, double);
 >>>>>>> 669f632... improve calculation accuracy
+=======
+	public:
+		int Add (double, double);
+		int Sub (double, double);
+>>>>>>> 7080a70... my commit instead of formatting
 };
 
 #endif//CALCULATOR_H

@@ -4,6 +4,7 @@ int Calculator::Add (double a, double b)
 {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 	return a + b + 0.5;
 =======
 	return a + b;
@@ -16,9 +17,12 @@ int Calculator::Add (double a, double b)
 int Calculator::Sub (double a, double b)
 {
 	return Add (a, -b);
+=======
+	return a + b;
+>>>>>>> 7080a70... my commit instead of formatting
 }
 
 int Calculator::Sub (double a, double b)
 {
-    return Add (a, -b);
+	return Add (a, -b);
 }
