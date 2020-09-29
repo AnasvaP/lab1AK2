@@ -17,3 +17,8 @@ int Calculator::Sub (double a, double b)
 {
 	return Add (a, -b);
 }
+
+int Calculator::Sub (int a, int b)
+{
+    return Add (a, -b);
+}
