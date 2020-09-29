@@ -7,6 +7,9 @@ int Calculator::Add (double a, double b)
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> dd36aad137f1a39b6886701e5688e5452680b0b4
 	return a + b + 0.5;
 =======
 	return a + b;
@@ -14,6 +17,9 @@ int Calculator::Add (double a, double b)
 =======
 	return a + b + 0.5;
 >>>>>>> 4ad40a3... fix truncation error
+=======
+	return a + b + 0.5;
+>>>>>>> 5d561517da307b932fa3c4f3158282b330e195e7
 }
 
 int Calculator::Sub (double a, double b)
